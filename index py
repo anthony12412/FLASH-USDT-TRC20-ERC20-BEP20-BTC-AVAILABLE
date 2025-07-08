@@ -1,0 +1,46 @@
+def separator():
+    print("=" * 60)
+
+def section(title, emoji=""):
+    print(f"\n{emoji} {title.upper()} {emoji}\n" + "-" * len(title))
+
+def main():
+    separator()
+    print("🚀 UNLIMITED FLASH USDT – TRC20, ERC20, BEP20 & BTC AVAILABLE 🚀")
+    separator()
+
+    section("Flash USDT – Your Fastest, Cheapest Crypto Transfer Solution", "⚡️")
+    print("Send USDT, BTC, DAI & more across TRC20, ERC20, BEP20, FANTOM –")
+    print("in seconds, with ultra-low fees!\n")
+
+    print("🔗 Telegram: https://t.me/flashanthony")
+
+    section("Why Choose FLASH USDT?", "✅")
+    print("- Super-fast transfers")
+    print("- Extremely low fees")
+    print("- Works with Binance, Trust Wallet, MetaMask & others")
+    print("- Fully transferable and cross-chain supported")
+
+    section("Start in 3 Simple Steps", "🧩")
+    print("1. Add FLASH USDT to your wallet")
+    print("2. Transfer or trade instantly")
+    print("3. Get support anytime via Telegram")
+
+    section("Join Us & Get Demo", "📢")
+    print("👉 https://t.me/flashanthony")
+
+    section("Need Help?", "📩")
+    print("👉 https://t.me/flashanthony")
+
+    section("Ready to Transfer?", "💸")
+    print("👉 https://t.me/flashanthony")
+
+    section("FLASH USDT – Fast. Affordable. Trusted.", "🔥")
+    print("Don’t wait – experience it today!")
+    print("Connect with us now on Telegram:")
+    print("👉 https://t.me/flashanthony")
+
+    separator()
+
+if __name__ == "__main__":
+    main()
